@@ -1,3 +1,0 @@
-2015-11-20 : Home section created
-2015-11-21 : Home section adapted for mobile platforms
-2015-11-22 : Boutique section created ; Boutique section adapted for mobile platforms ; Changed the font-size for mobile platforms on home section.
